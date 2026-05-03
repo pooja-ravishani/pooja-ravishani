@@ -38,7 +38,7 @@
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,java" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,firebase,java" />
 </p>
 
 <p align="left">
