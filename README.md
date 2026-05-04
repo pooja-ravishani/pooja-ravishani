@@ -89,8 +89,9 @@
 
 ## 📫 Contact
 
-📧 [poojaravishani2002@gmail.com](mailto:poojaravishani2002@gmail.com)
-💼 LinkedIn: https://www.linkedin.com/in/pooja-ravishani
+- 📧 [poojaravishani2002@gmail.com](mailto:poojaravishani2002@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pooja-ravishani-b925292b2/)
+  
 ---
 
 ⭐ *“Design is not just how it looks — it's how it works.”*
